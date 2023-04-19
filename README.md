@@ -1,4 +1,4 @@
-##🚂💺💻📝 Railways Reservation System in C Language
+## 🚂💺💻📝 **Railways Reservation System in C Language**
 
 This is a basic simulation of an online railway reservation system, built using the C programming language. It aims to replicate the core features of a typical online booking system, and includes the following functionalities:
 
